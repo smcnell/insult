@@ -1,14 +1,22 @@
 body {
     margin: 0;
+    background-color: black;
     font-family: 'Helvetica', Arial, Sans-serif;
     color: white;
+    background-image: url("../images/trump.jpg");
+    background-size: 1050px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
     /*background: url("./images/mushrooms.jpg") no-repeat center center fixed; */
-    -webkit-background-size: cover;
+    /*-webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -o-background-size: cover;*/
+    /*background-size: cover;*/
 }
 }
+
 
 * {
     vertical-align: top;
@@ -69,4 +77,14 @@ body {
 #quoteButton:active {
 	position:relative;
 	top:1px;
+}
+
+
+@media only screen and (max-width: 500px) {
+    body {
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
 }
