@@ -12,22 +12,29 @@ function makeNewQuote(){
 
 	function randomQuote(){
 		var quotesArr= [
-			{text: "sweet"},
-			{text: "innocent"},
-			{text: "pretty"},
-			{text: "beautiful"},
-			{text: "cool"},
-			{text: "talented"},
-			{text: "powerful"},
-			{text: "worthy"},
-			{text: "amazing"},
-			{text: "cunning"},
-			{text: "pliable"},
-			{text: "genius"},
-			{text: "sophisticated"},
-			{text: "naive"},
-			{text: "poetic"},
-			{text: "brilliant"
+			{text: "failed"},
+			{text: "weak"},
+			{text: "rigged"},
+			{text: "dumb"},
+			{text: "stupid"},
+			{text: "overrated"},
+			{text: "sad"},
+			{text: "the worst"},
+			{text: "no-good"},
+			{text: "total"},
+			{text: "lousy"},
+			{text: "false"},
+			{text: "major"},
+			{text: "complete"},
+			{text: "unfair"},
+			{text: "complete"},
+			{text: "nasty"},
+			{text: "massive"},
+			{text: "foul"},
+			{text: "pathetic"},
+			{text: "huge"},
+			{text: "horrible"},
+			{text: "bad"
 
 
 
@@ -36,16 +43,35 @@ function makeNewQuote(){
 
 
 		var quotesArr2= [
-			{text: "tropical"},
-			{text: "noble"},
-			{text: "rule-breaking"},
-			{text: "thoughtful"},
-			{text: "stupid-hot"},
-			{text: "unicorn"},
-			{text: "multi-ethnic"},
-			{text: "doll-footed"},
-			{text: "glowing"},
-			{text: "powerful"
+			{text: "desperate"},
+			{text: "biased"},
+			{text: "irrelevant"},
+			{text: "incompotent"},
+			{text: "dopey"},
+			{text: "rotten"},
+			{text: "inaccurate"},
+			{text: "fraudulent"},
+			{text: "biased"},
+			{text: "dishonest"},
+			{text: "disloyal"},
+			{text: "nasty"},
+			{text: "lazy"},
+			{text: "wrong"},
+			{text: "crooked"},
+			{text: "incompetent"},
+			{text: "miserable"},
+			{text: "boring"},
+			{text: "wacky"},
+			{text: "arrogant"},
+			{text: "ridiculous"},
+			{text: "terrible"},
+			{text: "desperate"},
+			{text: "zero-talent"},
+			{text: "sloppy"},
+			{text: "disgusting"},
+			{text: "broken"},
+			{text: "laughable"},
+			{text: "weak"
 
 
 
@@ -53,17 +79,35 @@ function makeNewQuote(){
 		]
 
 		var quotesArr3= [
-			{text: "fish"},
-			{text: "ox"},
-			{text: "spinster"},
-			{text: "moth"},
-			{text: "heifer"},
-			{text: "sunfish"},
-			{text: "brain"},
-			{text: "sun-goddess"},
-			{text: "land-mermaid"},
+			{text: "failure"},
+			{text: "disaster"},
+			{text: "fraud"},
+			{text: "dummy"},
+			{text: "dope"},
+			{text: "loser"},
+			{text: "liar"},
+			{text: "phony"},
+			{text: "hypocrite"},
+			{text: "mess"},
+			{text: "moron"},
+			{text: "jerk"},
+			{text: "waste"},
+			{text: "disgrace"},
+			{text: "joke"},
+			{text: "hypocrite"},
+			{text: "total embarassment"},
+			{text: "sack"},
+			{text: "sad case"},
+			{text: "basketcase"},
+			{text: "nut job"},
+			{text: "wacko"},
+			{text: "clown"},
+			{text: "low-life"},
+			{text: "atheist"},
+			{text: "lightweight"},
+			{text: "scum"},
 
-			{text: "newborn baby"
+			{text: "traitor"
 
 
 
